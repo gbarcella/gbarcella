@@ -1,4 +1,4 @@
-## Saudações querido Visitante! Me chamo Gilto Barcella!
+## Saudações, querido Visitante! Me chamo Gilto Barcella!
  <div>
   <a href="https://github.com/gbarcella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbarcella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
